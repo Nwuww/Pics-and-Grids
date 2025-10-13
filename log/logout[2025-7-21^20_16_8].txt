@@ -1,0 +1,12 @@
+[INFO|MAIN] gnp ver0.4.0 - beta
+[Reg|MAIN] Start!!!(≧∇≦)~
+[Reg|MAIN] Save mode {2}
+[Reg|MAIN] Path save:OUTPUT\output-0.png
+[Reg|MAIN] Func {RESIZE}
+#[Reg|RESIZE] src Pic:<PIL.PngImagePlugin.PngImageFile image mode=RGB size=259x224 at 0x226727416A0>,(259, 224)
+#[Reg|RESIZE] mode:2; sized mode:1
+##[Reg|RESIZE] cut sized mode {1}
+##[Reg|RESIZE] cut size=640:640
+##[Reg|RESIZE] resize mode {2}
+#[Reg|RESIZE] Img saved:OUTPUT\output-0.png
+[Reg|MAIN] #EXIT#またね~(●'◡'●)

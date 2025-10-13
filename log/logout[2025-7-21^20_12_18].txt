@@ -1,0 +1,5 @@
+[INFO|MAIN] gnp ver0.4.0 - beta
+[Reg|MAIN] Start!!!(≧∇≦)~
+[Reg|MAIN] Save mode {2}
+[Reg|MAIN] Path save:OUTPUT\output-0.png
+[Reg|MAIN] Func {RESIZE}
