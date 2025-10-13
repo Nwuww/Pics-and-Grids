@@ -1,7 +1,7 @@
 # 🎨 GRIDS & PICS
 
 一个简单的网格绘制与图片处理工具
-基于Python的Pillow库
+- 基于Python的Pillow库
 
 ---
 
